@@ -9,15 +9,13 @@
     "url": "git+https://github.com/StetsD/pass-power.git"
   },
   "keywords": [
-	  "filter",
-      "key",
-      "logger",
-      "regexp",
+	  "password",
+      "score",
+      "power",
       "input",
       "univalid",
       "validation",
       "validate",
-      "sandbox",
 	  "form"
   ],
   "author": "'stetsD' <chortstd@gmail.com>",
