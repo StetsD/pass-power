@@ -1,0 +1,31 @@
+{
+  "name": "pass-power",
+  "version": "1.0.0",
+  "description": "Module for score of password, check required cases and get common state of password",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StetsD/pass-power.git"
+  },
+  "keywords": [
+	  "filter",
+      "key",
+      "logger",
+      "regexp",
+      "input",
+      "univalid",
+      "validation",
+      "validate",
+      "sandbox",
+	  "form"
+  ],
+  "author": "'stetsD' <chortstd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StetsD/pass-power"
+  },
+  "homepage": "https://github.com/StetsD/pass-power#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
