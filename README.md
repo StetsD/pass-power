@@ -1,4 +1,5 @@
-##pass-power
+# pass-power
+
 Simple tool for checks required conditions in password and sets scores power
 
 
